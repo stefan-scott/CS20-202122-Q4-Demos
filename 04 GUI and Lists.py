@@ -56,4 +56,3 @@ print(f"on a {adjective1} wall.")
 
 
 
-

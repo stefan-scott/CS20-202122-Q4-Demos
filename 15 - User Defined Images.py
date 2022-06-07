@@ -3,6 +3,8 @@
 # June 7, 2022
 # How to create our own images for Micro:bit
 
+# NEXT TIME - use a for loop to animate the rolling sequence...
+
 import microbit, time, random
 
 dice_one = "44444:" \

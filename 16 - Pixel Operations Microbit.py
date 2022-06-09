@@ -74,6 +74,10 @@ def fade_effect():
             set_all(brightness)
             time.sleep(0.02)
 
+def get_pixel(x,y):
+    #return the intensity at position x,y
+    return grid[y][x]
+  
 # while True:
 #     random_sparkle()
 
